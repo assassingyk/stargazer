@@ -1,7 +1,7 @@
 # stargazer
 适用hoshino的人造卫星轨道信息查询插件
 
-原本只想写个单纯的娱乐插件，结果越写越复杂了就干脆完善了下~~（虽说这么偏门的功能大概也没人会用就是了）~~
+原本只想写个单纯的娱乐插件，结果越写越复杂了就干脆完善了下 ~~(虽说这么偏门的功能大概也没人会用就是了)~~
 
 星下点计算部分代码来自[Groundtrack](https://github.com/KyubiSystems/Groundtrack)，卫星数据来自https://celestrak.com/
 
