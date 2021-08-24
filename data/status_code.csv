@@ -1,0 +1,10 @@
+﻿status Code,status Description,chinese Description
++,Operational,正常运行
+-,Nonoperational,停止运行
+P,Partially Operational (Partially fulfilling primary mission or secondary mission(s)),部分运行
+B,Backup/Standby(Previously operational satellite put into reserve status),备份卫星
+S,Spare(New satellite awaiting full activation),后备卫星
+X,Extended Mission,超期运行
+D,Decayed,已衰降
+?,Unknown,未知
+,blank,未知

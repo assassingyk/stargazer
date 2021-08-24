@@ -1,0 +1,18 @@
+﻿status Code,status Description,chinese Description
+AS, Asteroid,小行星
+CO, Comet,彗星
+EA, Earth,地球
+EL1, Earth Lagrange (EL1 ,拉格朗日点L1
+EL2, Earth Lagrange (EL2,拉格朗日点L2
+EM, Earth-Moon Barycenter,地月系质心
+JU, Jupiter,木星
+MA, Mars,火星
+ME, Mercury,水星
+MO, Moon (Earth),月球
+NE, Neptune,海王星
+PL, Pluto,冥王星
+SA, Saturn,土星
+SS, Solar System Escape,太阳系逃逸轨道
+SU, Sun,太阳
+UR, Uranus,天王星
+VE, Venus,金星
