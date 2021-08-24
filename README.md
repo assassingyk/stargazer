@@ -11,7 +11,7 @@
 
 2. 安装依赖   `pip install -r requirements.txt`
 
-* 注意，windows下可能有部分依赖包无法自动安装，可前往[Unofficial Windows Binaries for Python Extension Packages]https://www.lfd.uci.edu/~gohlke/pythonlibs/ 下载相应whl包手动安装
+* 注意，windows下可能有部分依赖包无法自动安装，可前往[Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/) 下载相应whl包手动安装
 
 3. 在`HoshinoBot/hoshino/config/__bot__.py`中添加stargazer模块
 
